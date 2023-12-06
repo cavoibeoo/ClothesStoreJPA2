@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="demo4:war exploded" />
+      <artifact name="User:war" />
+      <artifact name="User:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -35,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib/mysql-socket-factory-connector-j-8-1.13.1-jar-with-driver-and-dependencies.jar" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29344264" />
   </component>
@@ -69,7 +70,7 @@
       <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="demo4:war exploded">
+        <artifact name="User:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/demo4_war_exploded" />
           </settings>
@@ -134,7 +135,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="demo4:war exploded" />
+          <artifact name="User:war exploded" />
         </option>
       </method>
     </configuration>
@@ -158,6 +159,8 @@
       <updated>1701810337196</updated>
       <workItem from="1701810340395" duration="4860000" />
       <workItem from="1701826540814" duration="276000" />
+      <workItem from="1701827191702" duration="7259000" />
+      <workItem from="1701847609745" duration="395000" />
     </task>
     <servers />
   </component>

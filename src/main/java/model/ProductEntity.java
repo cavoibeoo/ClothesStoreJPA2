@@ -7,7 +7,6 @@ import javax.persistence.*;
 import java.util.List;
 
 @Entity
-@Table(uniqueConstraints = @UniqueConstraint(columnNames = {"productName"}))
 public class ProductEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

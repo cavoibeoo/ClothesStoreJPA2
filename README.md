@@ -1,2 +1,0 @@
-# ClothesStoreJPA2
- 
